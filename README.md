@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Joshua Medina
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m currently learning everything and anything!
