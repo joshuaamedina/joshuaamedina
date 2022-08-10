@@ -1,1 +1,1 @@
-- Hi, I’m Joshua Medina
+A collection of projects.
